@@ -52,3 +52,5 @@ Supports data-driven decision-making for improving content strategy.
 Enables tracking of KPIs to measure social media ROI effectively.
 
 **🖼 Screenshot**
+
+https://github.com/Ananyajain1506/Twitter_Analytics_Dashboard/blob/main/Twitter%20analytics%20dashboard.png
